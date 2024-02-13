@@ -1,0 +1,7 @@
+﻿  Assembling Kaynak.asm...
+Kaynak.asm(12): error A2031: must be index or base register
+Kaynak.asm(24): error A2031: must be index or base register
+Kaynak.asm(25): error A2031: must be index or base register
+Kaynak.asm(27): error A2031: must be index or base register
+Kaynak.asm(28): error A2031: must be index or base register
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: "ml64.exe /c /nologo /Zi /Fo"x64\Debug\Kaynak.obj" /W3 /errorReport:prompt  /TaKaynak.asm" komutundan 1 koduyla çıkıldı.

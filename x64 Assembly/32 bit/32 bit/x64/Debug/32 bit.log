@@ -1,0 +1,4 @@
+﻿  Assembling Kaynak.asm...
+  ConsoleApplication1.cpp
+C:\Users\begum\Desktop\x64 Assembly\32 bit\32 bit\ConsoleApplication1.cpp(9,6): warning C4101: 'x': yerel değişken başvurusu kaldırıldı
+  32 bit.vcxproj -> C:\Users\begum\Desktop\x64 Assembly\32 bit\x64\Debug\32 bit.exe

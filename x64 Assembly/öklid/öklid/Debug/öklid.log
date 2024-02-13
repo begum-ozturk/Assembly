@@ -1,0 +1,23 @@
+﻿  Assembling Kaynak.asm...
+Kaynak.asm(1): error A2013: .MODEL must precede this directive
+Kaynak.asm(2): error A2034: must be in segment block : SifirDizi
+Kaynak.asm(3): error A2034: must be in segment block
+Kaynak.asm(4): error A2034: must be in segment block
+Kaynak.asm(6): error A2034: must be in segment block
+Kaynak.asm(7): error A2034: must be in segment block
+Kaynak.asm(9): error A2034: must be in segment block
+Kaynak.asm(10): error A2034: must be in segment block
+Kaynak.asm(11): error A2034: must be in segment block
+Kaynak.asm(13): error A2034: must be in segment block
+Kaynak.asm(14): error A2034: must be in segment block
+Kaynak.asm(15): error A2034: must be in segment block
+Kaynak.asm(16): error A2034: must be in segment block
+Kaynak.asm(17): error A2034: must be in segment block
+Kaynak.asm(19): error A2034: must be in segment block
+Kaynak.asm(20): error A2034: must be in segment block
+Kaynak.asm(22): error A2034: must be in segment block
+Kaynak.asm(23): error A2034: must be in segment block
+Kaynak.asm(25): error A2034: must be in segment block
+Kaynak.asm(26): error A2034: must be in segment block
+Kaynak.asm(27): fatal error A1010: unmatched block nesting : SifirDizi
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: "ml.exe /c /nologo /Zi /Fo"Debug\Kaynak.obj" /W3 /errorReport:prompt  /TaKaynak.asm" komutundan 1 koduyla çıkıldı.

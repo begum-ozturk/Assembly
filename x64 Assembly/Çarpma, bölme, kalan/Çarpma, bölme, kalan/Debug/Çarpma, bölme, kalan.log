@@ -1,0 +1,8 @@
+﻿  Assembling Kaynak.asm...
+Kaynak.asm(1): error A2013: .MODEL must precede this directive
+Kaynak.asm(3): error A2034: must be in segment block : Multiply
+Kaynak.asm(4): error A2034: must be in segment block
+Kaynak.asm(5): error A2034: must be in segment block
+Kaynak.asm(6): error A2034: must be in segment block
+Kaynak.asm(7): fatal error A1010: unmatched block nesting : Multiply
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: "ml.exe /c /nologo /Zi /Fo"Debug\Kaynak.obj" /W3 /errorReport:prompt  /TaKaynak.asm" komutundan 1 koduyla çıkıldı.
